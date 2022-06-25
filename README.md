@@ -51,7 +51,7 @@ so now you can change the volume of your system by changing the distance beetwee
 
 to stop the exicussion click "**q**" on your keyboard
 
-# NOTE :  if your are using anconda the you should make an enviorment first to do this run command :
+**NOTE :  if your are using anconda the you should make an enviorment first to do this run command :**
 
 >$ conda create -n my_env
 
