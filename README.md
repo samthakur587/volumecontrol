@@ -57,4 +57,8 @@ to stop the exicussion click "**q**" on your keyboard
 
 >$ conda activate my_env
 
+# License 
+
+[License](LICENSE)
+
 ## [Linkedin](https://www.linkedin.com/in/samunder-singh-265508202/)
